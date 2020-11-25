@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786432048023",
+    "firebase_url": "https://demomxh-e00b3.firebaseio.com",
+    "project_id": "demomxh-e00b3",
+    "storage_bucket": "demomxh-e00b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786432048023:android:d0d917fb60253c975aa2d2",
+        "android_client_info": {
+          "package_name": "com.example.demomxh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786432048023-dnrkcpg94pkvhtqqihft6vq2vm7dthdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQHwYWowPRo_oz5GIuXgXsW-Rp5ogdhzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786432048023-dnrkcpg94pkvhtqqihft6vq2vm7dthdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
